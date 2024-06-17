@@ -1,0 +1,52 @@
+[
+  {
+    "nome": "Palmeiras",
+    "pais": "Brasil",
+    "anoFundado": 1914
+  },
+  {
+    "nome": "Flamengo",
+    "pais": "Brasil",
+    "anoFundado": 1895
+  },
+  {
+    "nome": "Barcelona",
+    "pais": "Espanha",
+    "anoFundado": 1899
+  },
+  {
+    "nome": "Real Madrid",
+    "pais": "Espanha",
+    "anoFundado": 1902
+  },
+  {
+    "nome": "Manchester United",
+    "pais": "Inglaterra",
+    "anoFundado": 1878
+  },
+  {
+    "nome": "Bayern de Munique",
+    "pais": "Alemanha",
+    "anoFundado": 1900
+  },
+  {
+    "nome": "Juventus",
+    "pais": "Itália",
+    "anoFundado": 1897
+  },
+  {
+    "nome": "River Plate",
+    "pais": "Argentina",
+    "anoFundado": 1901
+  },
+  {
+    "nome": "Boca Juniors",
+    "pais": "Argentina",
+    "anoFundado": 1905
+  },
+  {
+    "nome": "Paris Saint-Germain",
+    "pais": "França",
+    "anoFundado": 1970
+  }
+]

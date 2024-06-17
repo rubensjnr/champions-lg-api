@@ -21,10 +21,10 @@ export const responseNoContent = async (): Promise<HttpResponse> => {
   };
 };
 
-export const responseBadRequest = async (message: string): Promise<HttpResponse> => {
+export const responseBadRequest = async (): Promise<HttpResponse> => {
   return {
     statusCode: 400,
-    body: { error: message }
+    body: null
   };
 };
 
@@ -69,6 +69,8 @@ export const responseServiceUnavailable = async (message: string): Promise<HttpR
     body: { error: message }
   };
 };
+
+
 
 
 
